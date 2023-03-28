@@ -1,0 +1,19 @@
+.banner2 {
+  background-image: url("../../images/car2.jpg");
+  color: white;
+  padding: 150px 0px;
+  background-size: cover;
+  background-position: center;
+}
+
+.banner2 h1 {
+  font-size: 38px;
+  text-align: center;
+
+}
+
+.banner2 p {
+  font-size: 15px;
+  text-align: center;
+
+}
